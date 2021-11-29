@@ -1,13 +1,13 @@
 h1 {
 	color: red ;
- 	font-size: 24 pt;
+ 	font-size: 24pt;
  	text-decoration: underline;
  	font-family: tahoma, helvetica, sans-serif;
 	text-align: center;
 	border: thick solid red;
 	text-decoration: none;
 	padding: 1ex;
-	wdidth: 50%;
+	width: 50%;
 
 
 }
